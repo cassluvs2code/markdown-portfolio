@@ -1,9 +1,9 @@
-*These are some of the things that I know how to do:*  
+_These are some of the things that I know how to do:_
 
-**html**  
+**html**
 
-**css**  
+**css**
 
-**javaScript**  
+**javaScript**
 
 **java**
